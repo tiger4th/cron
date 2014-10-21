@@ -1,0 +1,44 @@
+BTOOOM!,http://www.btooom.com/,BTOOOM!\
+CODE:BREAKER,http://www.code-breaker.jp/,CODE:BREAKER\
+K*,http://k-project.jpn.com/,K(アニメ)\
+PHYCHO-PASS*,http://psycho-pass.com/,PSYCHO-PASS\
+ROBOTICS;NOTES,http://roboticsnotes.tv/,ROBOTICS;NOTES\
+ToLOVEる-とらぶる-ダークネス,http://www.j-toloveru.com/,ToLOVEる\
+うーさーのその日暮らし,http://wooser.tv/,うーさーのその日暮らし\
+おしりかじり虫,http://www3.nhk.or.jp/anime/oshiri/,おしりかじり虫\
+お兄ちゃんだけど愛さえあれば関係ないよねっ,http://www.oniai.com/,お兄ちゃんだけど愛さえあれば関係ないよねっ\
+さくら荘のペットな彼女,http://sakurasou.tv/,さくら荘のペットな彼女\
+たまごっち! ゆめキラドリーム,http://www.tv-tokyo.co.jp/anime/tamagotchi/,たまごっち\
+ちいさなおじさん,http://mini-oyaji.com/,ちいさなおじさん\
+てーきゅう,http://te-kyu.com/,てーきゅう\
+となりの怪物くん,http://www.tk-anime.info/,となりの怪物くん\
+はいたい七葉*,http://hai-tai.jp/,はいたい七葉\
+ひだまりスケッチ×ハニカム,http://www.tbs.co.jp/anime/hidamari/,ひだまりスケッチ\
+めだかボックス アブノーマル,http://medakabox.jp/,めだかボックス\
+アイカツ!,http://www.aikatsu.net/,アイカツ!\
+イクシオン サーガ DT,http://ixion-saga-anime.jp/,イクシオンサーガ\
+ガールズ＆パンツァー*,http://girls-und-panzer.jp/,ガールズ＆パンツァー\
+クロスファイト ビーダマンeS,http://www.b-daman.tv/eS/,クロスファイトビーダマン\
+ジョジョの奇妙な冒険,http://wwws.warnerbros.co.jp/jojo-animation/,ジョジョの奇妙な冒険\
+ハヤテのごとく! CAN'T TAKE MY EYES OFF YOU,http://www.hayate-project.com/,ハヤテのごとく!\
+バクマン。3,http://www9.nhk.or.jp/anime/bakuman/,バクマン。\
+バトルスピリッツ ソードアイズ,http://www.sunrise-inc.co.jp/battlespirits5/,バトルスピリッツ\
+ピムとポムのちっちゃな冒険,http://www9.nhk.or.jp/anime/pimandpom/,ピムとポム\
+マギ,http://www.project-magi.com/,マギ\
+ヨルムンガンド PERFECT ORDER,http://www.jormungand.tv/,ヨルムンガンド\
+ライチDE光クラブ,http://www.litchi-hikari-club.com/,ライチ光クラブ\
+リトルバスターズ!,http://www.litbus-anime.com/,リトルバスターズ!\
+銀魂 第3期,http://www.sunrise-inc.co.jp/gintama/,銀魂\
+好きっていいなよ。,http://www.starchild.co.jp/special/sukinayo/,好きっていいなよ。\
+獣旋バトル モンスーノ*,http://www.tv-tokyo.co.jp/anime/monsuno/,モンスーノ\
+新世界より,http://www.tv-asahi.co.jp/shinsekaiyori/,新世界より\
+神様はじめました,http://www.mikagesha.com/,神様はじめました\
+生徒会の一存 新アニメ（仮）,http://seitokai-no-ichizon.com/,生徒会の一存\
+絶園のテンペスト,http://www.zetsuen.net/,絶園のテンペスト\
+蒼い世界の中心で,http://aoisekai.net/anime.html,蒼い世界の中心で\
+中二病でも恋がしたい!,http://www.anime-chu-2.com/,中二病でも恋がしたい!\
+超速変形ジャイロゼッター,http://www.tv-tokyo.co.jp/anime/gyrozetter/,超速変形ジャイロゼッター\
+頭文字D Fifth Stage,http://www.perfectchoice-pr.com/initial-d/,頭文字D\
+緋色の欠片 第二章,http://www.hiironokakera.tv/,緋色の欠片\
+武装神姫,http://www.tbs.co.jp/anime/busou/,武装神姫\
+遊☆戯☆王ZEXALII,http://www.tv-tokyo.co.jp/anime/yugioh-zexal/,遊戯王ZEXAL

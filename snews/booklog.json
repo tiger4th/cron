@@ -1,0 +1,1 @@
+{"request": {"url": "http://localhost:5006/search.json?type=link&perpage=100&window=d&q=site%3Abooklog.jp%2Fitem", "resource": "search", "response_type": "json", "parameters": {"q": "site:booklog.jp/item", "window": "d", "perpage": "100", "type": "link"}}, "response": {"perpage": 100, "list": [], "page": 1, "offset": 0, "hidden": 0, "total": 0, "last_offset": 0}}

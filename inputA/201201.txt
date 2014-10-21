@@ -1,0 +1,29 @@
+Another,http://www.another-anime.jp/,Another\
+BRAVE10,http://www.brave10.com/,BRAVE10\
+あの夏で待ってる*,http://www.ichika-ichika.com/,あの夏で待ってる\
+アクエリオンEVOL*,http://aqevol.com/,アクエリオン\
+アマガミSS+ plus,http://www.tbs.co.jp/anime/amagami/,アマガミ\
+エリアの騎士,http://www.tv-asahi.co.jp/knight/,エリアの騎士\
+キルミーベイベー,http://killmebaby.tv/,キルミーベイベー\
+ゴクジョッ。～極楽院女子高寮物語～,http://gokujyo.cammot.jp/,ゴクジョッ。\
+スマイルプリキュア!*,http://www.toei-anim.co.jp/tv/smile_precure/,スマイルプリキュア\
+ズーブルズ!,http://www.zoobles.jp/,ズーブルズ\
+ゼロの使い魔F,http://www.zero-tsukaima.com/,ゼロの使い魔\
+ダンボール戦機W,http://www.tv-tokyo.co.jp/anime/lbx/,ダンボール戦機\
+テルマエ・ロマエ,http://thermae-anime.jp/,テルマエ・ロマエ\
+ハイスクールD×D,http://www.haremking.tv/,ハイスクールD×D\
+パパのいうことを聞きなさい!,http://www.starchild.co.jp/special/papakiki/,パパのいうことを聞きなさい!\
+ブラック★ロックシューター,http://www.noitamina-brs.jp/,ブラック★ロックシューター\
+ポヨポヨ観察日記,http://www.tv-tokyo.co.jp/anime/poyo/,ポヨポヨ観察日記\
+ミニスキュル ～小さなムシの物語～*,http://www9.nhk.or.jp/anime/minuscule/,ミニスキュル\
+モーレツ宇宙海賊,http://www.starchild.co.jp/special/mo-retsu/,モーレツ宇宙海賊\
+リコーダーとランドセル ド♪,http://www.takeshobo.co.jp/sp/tv_rikoran/,リコーダーとランドセル\
+夏目友人帳 肆,http://www.nasinc.co.jp/jp/natsume-anime/,夏目友人帳\
+機動戦士ガンダムSEED HDリマスター*,http://www.gundam-seed.net/,ガンダムSEED\
+偽物語,http://www.nisemonogatari-anime.com/,偽物語\
+新テニスの王子様,http://www.tv-tokyo.co.jp/anime/shin-tenipri/,テニスの王子様\
+戦姫絶唱シンフォギア*,http://www.symphogear.com/,戦姫絶唱シンフォギア\
+探偵オペラ ミルキィホームズ 第2幕,http://milky-holmes.com/,ミルキィホームズ\
+男子高校生の日常,http://www.danshinichijyo.net/,男子高校生の日常\
+妖狐×僕SS,http://www.inuboku.tv/,妖狐×僕SS\
+輪廻のラグランジェ*,http://lag-rin.com/,輪廻のラグランジェ
