@@ -16,9 +16,17 @@ $list = array('topics'        => 'http://b.hatena.ne.jp/entrylist?sort=hot&thres
               'amazon'        => 'http://b.hatena.ne.jp/entrylist?sort=hot&threshold=3&url=http%3A%2F%2Fwww.amazon.co.jp%2F&mode=rss',
              );
 
+$options = array(
+  'http' => array(
+    'method' => 'GET',
+    'header' => 'User-Agent: Mozilla/5.0 AppleWebKit/537.36 Chrome/46.0.2490.86 Safari/537.36',
+  ),
+);
+$context = stream_context_create($options);
+
 foreach ($list as $category => $url) {
-	$xml = file_get_contents($url);
-	file_put_contents(OUTPUT_HATEBU.$category.'.xml', $xml);
+  $xml = file_get_contents($url, false, $context);
+  file_put_contents(OUTPUT_HATEBU.$category.'.xml', $xml);
 }
 
 echo "SUCCESS";
